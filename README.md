@@ -21,4 +21,10 @@
  2. Assignments will be posted in the assignment folder
  3. Installation folder contains instructions required to setup Python
  4. Ignore assets
-
+ 
+ ### Class instructions
+ 
+ 1. **Timings: Every Tuesday 3:30 PM.**
+ 2. Duration: 1 hr (+15 mins)
+ 3. You may bring your laptop, but it is not compulsory. You can take notes in a copy instead. We will upload all the materials to the Github Repository, which you can access anytime.
+4. Assignments will not be checked individually, but a solution notebook will be provided after a week.
